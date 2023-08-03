@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionaisExercicio01 {
     public static void main(String[] args) {
-        double salarioAnual = 50000;
+        double salarioAnual = 25000;
         double valorTaxa;
         if(salarioAnual <= 34712){
             valorTaxa = salarioAnual * 0.097;
